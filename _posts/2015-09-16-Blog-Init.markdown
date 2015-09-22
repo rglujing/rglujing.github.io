@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Blog Init"
+date:   2015-09-22 15:03:53
+categories: Blog Init
+---
+    
+Welcome to My Blog
+===================
+
+I will add project desciption, technical points, and something good in this blog.
+
+This blog is build on github. Thanks them.

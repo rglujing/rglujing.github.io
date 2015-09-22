@@ -1,7 +1,7 @@
 # Site settings
 title: LuJing's Blog
 email: rglujing@126.com
-description: ""
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
