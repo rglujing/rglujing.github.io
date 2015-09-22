@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Blog Init"
+date:   2015-09-22 15:03:53
+categories: Blog Init
+---
+   基于GitHub的博客，使用JekyII作为模版，用来纪录项目介绍，以及一些技术点.
